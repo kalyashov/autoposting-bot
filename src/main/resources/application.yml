@@ -1,3 +1,6 @@
 spring:
   application:
     name: channel-autoposting-bot
+bot:
+  name:
+  token:
